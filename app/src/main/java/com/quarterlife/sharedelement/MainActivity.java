@@ -13,7 +13,6 @@ public class MainActivity extends AppCompatActivity {
     public static CircleImageView profile_image;
     public static TextView user_name;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
